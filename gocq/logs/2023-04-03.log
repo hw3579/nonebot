@@ -1,0 +1,5 @@
+[2023-04-03 15:55:24] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-03 15:55:36] [ERROR]: Protocol -> test chat server latency error: failed to connect to server during quality test: dial tcp 159.8.96.70:10001: i/o timeout 
+[2023-04-03 15:57:15] [ERROR]: 错误: 聊天服务器延迟测试失败, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-04-03 15:57:15] [WARNING]: 警告: 本地连接聊天服务器丢包率为 100%, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-04-03 15:57:15] [WARNING]: 警告: 长消息响应延迟为 52238ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 

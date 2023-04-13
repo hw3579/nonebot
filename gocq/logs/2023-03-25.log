@@ -1,0 +1,6 @@
+[2023-03-25 00:11:48] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-25 00:11:52] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:9336->127.0.0.1:55555: use of closed network connection 
+[2023-03-25 00:38:32] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-25 00:38:42] [ERROR]: Protocol -> test chat server latency error: failed to connect to server during quality test: dial tcp 159.8.96.70:10001: i/o timeout 
+[2023-03-25 00:40:21] [ERROR]: 错误: 聊天服务器延迟测试失败, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-03-25 00:40:21] [WARNING]: 警告: 本地连接聊天服务器丢包率为 100%, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 

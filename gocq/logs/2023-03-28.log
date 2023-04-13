@@ -1,0 +1,14 @@
+[2023-03-28 01:46:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-28 01:46:59] [ERROR]: Protocol -> test chat server latency error: failed to connect to server during quality test: dial tcp 159.8.96.70:10001: i/o timeout 
+[2023-03-28 01:48:38] [ERROR]: 错误: 聊天服务器延迟测试失败, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-03-28 01:48:38] [WARNING]: 警告: 本地连接聊天服务器丢包率为 100%, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-03-28 08:11:09] [ERROR]: 错误: 请先添加 Seesaw(1602398622) 为好友 
+[2023-03-28 12:04:50] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-28 12:04:54] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:1265->127.0.0.1:55555: use of closed network connection 
+[2023-03-28 20:28:35] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:7333->127.0.0.1:55555: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-03-28 21:07:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-28 21:07:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:55555/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:55555: connectex: No connection could be made because the target machine actively refused it. 
+[2023-03-28 21:07:18] [ERROR]: Protocol -> test chat server latency error: failed to connect to server during quality test: dial tcp 159.8.96.70:10001: i/o timeout 
+[2023-03-28 21:07:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:55555/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:55555: connectex: No connection could be made because the target machine actively refused it. 
+[2023-03-28 21:08:57] [ERROR]: 错误: 聊天服务器延迟测试失败, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-03-28 21:08:57] [WARNING]: 警告: 本地连接聊天服务器丢包率为 100%, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 

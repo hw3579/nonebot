@@ -1,0 +1,13 @@
+[2023-03-29 17:40:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-29 17:40:24] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:12613->127.0.0.1:55555: use of closed network connection 
+[2023-03-29 23:02:13] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-29 23:02:37] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-03-29 23:02:48] [ERROR]: Protocol -> test chat server latency error: failed to connect to server during quality test: dial tcp 159.8.96.70:10001: i/o timeout 
+[2023-03-29 23:04:27] [ERROR]: 错误: 聊天服务器延迟测试失败, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-03-29 23:04:27] [WARNING]: 警告: 本地连接聊天服务器丢包率为 100%, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-03-29 23:04:27] [WARNING]: 警告: 长消息响应延迟为 17693ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
+[2023-03-29 23:38:08] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-29 23:38:12] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:1423->127.0.0.1:55555: use of closed network connection 
+[2023-03-29 23:43:21] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2023-03-29 23:43:28] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:2110->127.0.0.1:55555: use of closed network connection 
+[2023-03-29 23:43:33] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:55555/onebot/v11/ws 时出现错误: dial tcp 127.0.0.1:55555: connectex: No connection could be made because the target machine actively refused it. 

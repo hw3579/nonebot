@@ -1,0 +1,8 @@
+[2023-04-04 01:00:39] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:3955->127.0.0.1:55555: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2023-04-04 01:00:40] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:3955->127.0.0.1:55555: wsasend: An existing connection was forcibly closed by the remote host. 
+[2023-04-04 01:02:08] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2023-04-04 01:02:20] [ERROR]: Protocol -> test chat server latency error: failed to connect to server during quality test: dial tcp 159.8.96.70:10001: i/o timeout 
+[2023-04-04 01:03:59] [ERROR]: 错误: 聊天服务器延迟测试失败, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-04-04 01:03:59] [WARNING]: 警告: 本地连接聊天服务器丢包率为 100%, 可能出现消息丢失/延迟或频繁掉线等情况, 请检查本地网络状态. 
+[2023-04-04 01:03:59] [WARNING]: 警告: 长消息响应延迟为 2291ms, 大于 1000ms, 可能导致无法接收/发送长消息的情况, 请检查本地网络状态. 
+[2023-04-04 23:40:56] [WARNING]: 监听反向WS Universal时出现错误: read tcp 127.0.0.1:1230->127.0.0.1:55555: wsarecv: An existing connection was forcibly closed by the remote host. 
